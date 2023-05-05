@@ -4,4 +4,4 @@ Studio in Tre Fasi (Study in three phases) is an adaptive site-specific sound in
 
 This repository containts the code of the installation.
 
-A paper describing it is accessible here: https://direct.mit.edu/lmj/article/doi/10.1162/lmj_a_01092/97054/Study-in-three-phases-An-Adaptive-Sound
+A paper describing the installation is accessible here: https://direct.mit.edu/lmj/article/doi/10.1162/lmj_a_01092/97054/Study-in-three-phases-An-Adaptive-Sound
